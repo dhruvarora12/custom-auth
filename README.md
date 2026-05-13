@@ -188,4 +188,4 @@ migrations/          — SQL files (goose format) + embed.go
 
 ## License
 
-MIT
+Dhruv Arora
